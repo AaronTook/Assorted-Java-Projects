@@ -6,7 +6,7 @@ public class FutureValue {
 		System.out.print("Enter Investment Amount:   $");
 		double invAmnt = input.nextDouble();
 		System.out.println("");
-		System.out.print("Enter Annual Intrest Rate: ");
+		System.out.print("Enter Annual Interest Rate: ");
 		double invRate = input.nextDouble();
 		System.out.println("");
 		System.out.print("Enter Investment Duration: ");
